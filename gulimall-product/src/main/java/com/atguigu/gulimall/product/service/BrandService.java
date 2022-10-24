@@ -9,9 +9,9 @@ import java.util.Map;
 /**
  * 品牌
  *
- * @author cdg
+ * @author cfg
  * @email 1613853412@qq.com
- * @date 2022-10-23 19:54:49
+ * @date 2022-10-24 21:15:42
  */
 public interface BrandService extends IService<BrandEntity> {
 

@@ -20,11 +20,12 @@ import com.atguigu.common.utils.R;
 /**
  * 商品评价
  *
- * @author cdg
+ * @author cfg
  * @email 1613853412@qq.com
- * @date 2022-10-23 19:54:49
+ * @date 2022-10-24 21:15:42
  */
 @RestController
+@RequestMapping("product/spucomment")
 public class SpuCommentController {
     @Autowired
     private SpuCommentService spuCommentService;
